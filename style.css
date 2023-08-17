@@ -1,0 +1,21 @@
+/* CSS is loading successfull */
+/* body {
+    background-color: aqua;
+} */
+
+.font-nos {
+    font-family: 'Nosifer', cursive;
+    color: tomato;
+    -webkit-text-stroke: 1px black;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.txtOut {
+    -webkit-text-stroke: 1px black;
+}
+
+.ctrtxt {
+    justify-content: center;
+}
