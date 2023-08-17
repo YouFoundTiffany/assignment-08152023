@@ -67,6 +67,7 @@ const people = [{
 ]
 
 
+
 // let person = people[i]
 
 
